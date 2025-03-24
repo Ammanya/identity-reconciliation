@@ -91,7 +91,7 @@ For development (with nodemon):
       {
               "contact": {
                "primaryContactId": 1,
-                "emails": ["ammanyarajasekar@gmail.com", "secondary@example.com"],
+                "emails": ["jane.doe@example.com", "secondary@example.com"],
                "phoneNumbers": ["1234567890"],
                 "secondaryContactIds": []
        }
